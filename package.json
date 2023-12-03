@@ -1,5 +1,5 @@
 {
-  "name": "nanostores-persistent-solid",
+  "name": "nanostores-persistent-solid-f",
   "version": "0.1.7f",
   "description": "Drop-in replacement for Nano Stores Persistent and Nano Stores Solid that adds support for persistent atoms/maps in Solid SSR environments.",
   "keywords": [
