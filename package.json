@@ -1,6 +1,6 @@
 {
   "name": "nanostores-persistent-solid-f",
-  "version": "0.1.7f",
+  "version": "0.1.8f",
   "description": "Drop-in replacement for Nano Stores Persistent and Nano Stores Solid that adds support for persistent atoms/maps in Solid SSR environments.",
   "keywords": [
     "nanostores",
@@ -45,7 +45,7 @@
     "solid-js": ">=1.8.0"
   },
   "dependencies": {
-    "nanostores": "^0.9.0"
+    "nanostores": ">=0.10.3"
   },
   "devDependencies": {
     "@testing-library/jest-dom": "^5.16.5",
